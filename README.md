@@ -100,6 +100,14 @@ Me chamo Janderson Vidal, tenho 21 anos e sou natural de Fortaleza - CÊ. Atualm
     title="Docker"
     width="30px" 
     style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
 
