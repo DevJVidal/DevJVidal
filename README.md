@@ -1,6 +1,6 @@
 # 🧑‍💻 Janderson Vidal
 
-**`Desenvolvedor FullStack`**
+**`Full-Stack Developer`**
 
 My name is Janderson Vidal, I'm 21 years old and I'm from Fortaleza, Ceará, Brazil. I'm currently studying Computer Science at Estácio University and I'm passionate about technology. I share my projects and learnings here on GitHub, where I work on both front-end and back-end development, creating functional, intuitive, and scalable applications.
 
