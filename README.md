@@ -6,7 +6,7 @@ My name is Janderson Vidal, I'm 21 years old and I'm from Fortaleza, Ceará, Bra
 
 My main goal is to write clean, efficient, and easily maintainable code, always striving to evolve, learn new tools, and improve my skills as a developer.
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <img 
     align="left" 
